@@ -1,0 +1,16 @@
+#idido{
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+.carousel-inner img {
+    width: 100%; 
+    height: auto; 
+}
+
+
+body {
+        background-image: url('savana1.jpg'); 
+        background-size: cover;
+        background-repeat: no-repeat; /* Impede que a imagem se repita */
+}
